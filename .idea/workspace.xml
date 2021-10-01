@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9597b33b-c5b4-4f65-b145-bc3b9b23bfb8" name="Default Changelist" comment="&quot;-1-/&quot;">
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/ktor_server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/ktor_server/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/ktor_server/src/main/java/com/example/ktor_server/server.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/-1-/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Images-Dictionary0/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Images-Dictionary0/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Images-Dictionary0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Images-Dictionary0/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9597b33b-c5b4-4f65-b145-bc3b9b23bfb8" name="Default Changelist" comment="settings">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +17,7 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
-      <option value="module" />
+      <option value="directory" />
     </option>
   </component>
   <component name="ExternalProjectsData">
@@ -109,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633115780943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="settings">
+      <created>1633116126276</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633116126276</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -169,6 +170,7 @@
     <MESSAGE value="-" />
     <MESSAGE value="..." />
     <MESSAGE value="&quot;-1-/&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;-1-/&quot;" />
+    <MESSAGE value="settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="settings" />
   </component>
 </project>
