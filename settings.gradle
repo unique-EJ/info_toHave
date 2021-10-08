@@ -7,4 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Images-Dictionary"
-include ':ktor_server'
+include ":ktor_server_ImD"
