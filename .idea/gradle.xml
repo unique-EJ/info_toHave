@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/PicDict_Kotlin" />
-            <option value="$PROJECT_DIR$/ktor_server_PicDict" />
+            <option value="$PROJECT_DIR$/PicDict_Kotlin/ktor_server_PicDict" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

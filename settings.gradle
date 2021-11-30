@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Picture-It-Dictionary"
-include ":ktor_server_PicDict"
-include ':PicDict_Kotlin'
+include "PicDict_Kotlin:ktor_server_PicDict"
