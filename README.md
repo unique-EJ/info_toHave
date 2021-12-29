@@ -1,5 +1,6 @@
 # Data-MapDictionary
-App, to have a map/dictionary of **your data**.
+
+App, to get, have a map/dictionary of **your data**.
 
 .
 
