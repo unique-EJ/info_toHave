@@ -6,5 +6,7 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Data-MapDictionary"
-include ':HTML-kt'
+rootProject.name = "Picture-It-Data-Map-Dict[ionary]"
+
+include "Data-MapDictionary:HTML-kt"
+include "Picture-It-Dictionary:PicDict_Kotlin:ktor_server_PicDict"
