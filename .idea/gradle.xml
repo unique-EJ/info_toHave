@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,11 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Data-MapDictionary" />
-            <option value="$PROJECT_DIR$/Data-MapDictionary/HTML-kt" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin/ktor_server_PicDict" />
+            <option value="$PROJECT_DIR$/PicDict_Kotlin" />
+            <option value="$PROJECT_DIR$/ktor_server_PicDict" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
