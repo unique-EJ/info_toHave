@@ -7,11 +7,10 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="azul-13" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Data-MapDictionary" />
-            <option value="$PROJECT_DIR$/Data-MapDictionary/HTML-kt" />
             <option value="$PROJECT_DIR$/Picture-It-Dictionary" />
             <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin" />
             <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin/ktor_server_PicDict" />

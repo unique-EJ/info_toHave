@@ -8,5 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Picture-It-Data-Map-D-"
 
-include "Data-MapDictionary:HTML-kt"
 include "Picture-It-Dictionary:PicDict_Kotlin:ktor_server_PicDict"
