@@ -11,9 +11,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin" />
-            <option value="$PROJECT_DIR$/Picture-It-Dictionary/PicDict_Kotlin/ktor_server_PicDict" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
