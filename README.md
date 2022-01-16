@@ -1,3 +1,5 @@
-# "Picture-It / Data-Map"-Dictionary
+# connections of data
+Connections of data you have/create - app (+ Picture-It-Dictionary).
 
-App, for communication, speaking & (to get, have) a map/dictionary of **your data**.
+
+a map/dictionary ?
