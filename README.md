@@ -2,4 +2,4 @@
 Connections of data you have/create - app (+ Picture-It-Dictionary).
 
 
-a map/dictionary ?
+a map/dictionary ? Ktor (Kotlin)?
