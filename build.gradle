@@ -3,6 +3,8 @@ buildscript {
     repositories {
         google()
         mavenCentral()
+
+        maven { url "https://maven.pkg.jetbrains.space/public/p/kotlinx-html/maven" }
     }
     dependencies {
         classpath "com.android.tools.build:gradle:7.0.4"

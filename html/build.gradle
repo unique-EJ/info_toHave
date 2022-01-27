@@ -1,0 +1,22 @@
+plugins {
+    id 'java-library'
+    id 'kotlin'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
+
+dependencies {
+    def kotlinx_html_version = "0.7.1"
+
+    // include for JVM target
+    implementation("org.jetbrains.kotlinx:kotlinx-html-jvm:${kotlinx_html_version}")
+
+    // include for JS target
+    implementation("org.jetbrains.kotlinx:kotlinx-html-js:${kotlinx_html_version}")
+
+    // include for Common module
+    implementation("org.jetbrains.kotlinx:kotlinx-html:${kotlinx_html_version}")
+}
