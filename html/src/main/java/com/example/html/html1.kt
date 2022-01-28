@@ -5,13 +5,14 @@ import kotlinx.html.dom.*
 import kotlinx.html.stream.appendHTML
 
 fun main() {
-    var qwerty = createHTMLDocument()
-    qwerty.html {
-        body {
-
-        }
-    }
+    /* https://kotlinlang.org/docs/typesafe-html-dsl.html
+    * https://github.com/Kotlin/kotlinx.html/wiki
+    * */
+    // "println" output:
     System.out.appendHTML().html {
-
+        body {
+            h1 { +"123!" }
+            +"(HTML DSL)"
+        }
     }
 }

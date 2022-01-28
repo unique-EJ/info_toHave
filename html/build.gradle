@@ -18,5 +18,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-html-js:${kotlinx_html_version}")
 
     // include for Common module
-    implementation("org.jetbrains.kotlinx:kotlinx-html:${kotlinx_html_version}")
+    //implementation("org.jetbrains.kotlinx:kotlinx-html:${kotlinx_html_version}")
 }
