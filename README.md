@@ -1,4 +1,4 @@
-# _...
+# "_"
 
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \* connections-of-data
 
