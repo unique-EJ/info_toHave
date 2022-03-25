@@ -1,4 +1,9 @@
-# connections of data
+# _...
+
+[Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \* connections-of-data
+
+## "connections of data"
+
 Connections of data you have/create - app (+ Picture-It-Dictionary).
 
 ***
