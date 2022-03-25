@@ -8,6 +8,8 @@ App for communication, speaking.
 2. Write it to file??
 3. Search words for it/this.
 
+[123.PicD](123.PicD)
+
 ```
 #X#X#X#X@ # # # # @ # # # # @ # # # # @ # # # # @ # # # # @
 #X#X#X#X@ # # # # @ # # # # @ # # # # @ # # # # @ # # # # @
