@@ -1,10 +1,9 @@
-# \*_\*
+# _: “My Data Links” app
+[Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "My Data Links"
 
-[Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| connections-of-data
+App - for connections, links of things in your data/information.
 
-## "connections of data"
-
-Connections of data you have/create - app.
+It was "connections of data" (Connections of data you have/create).
 
 ***
 
