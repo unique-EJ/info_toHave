@@ -21,4 +21,4 @@ fun main() {
         println(y)
     }
 }
-// https://kotlinlang.org/docs/command-line.html#create-and-run-an-application
+// compiler: https://kotlinlang.org/docs/command-line.html#create-and-run-an-application
