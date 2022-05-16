@@ -5,6 +5,12 @@ App - for connections, links of things in your data/information.
 
 It was "connections of data" (Connections of data you have/create).
 
+To-do (for me):
+ - a file, save some data to/in it.
+   - printing, to app, to it - from anything!
+   https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
+ - UI - user "interaction space"
+
 ***
 
 a map/dictionary ? Ktor (Kotlin)?
