@@ -1,9 +1,9 @@
 # \_: “My Data Links” app
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "My Data Links"
 
-App - for connections, links of things in your data/information.
+App - for (saving) your data/information and connections, links of things in it.
 
-It was "connections of data" (Connections of data you have/create).
+(it was "connections of data" - Connections of data you have/create)
 
 To-do (for me):
  - a file, save some data to/in it.
