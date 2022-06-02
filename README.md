@@ -1,9 +1,14 @@
 # \_: “My Data Links” app
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "My Data Links"
 
-App - for (saving) your data/information and connections, links of things in it.
+App - for (saving) data/information to your device
+and to search for connections, links of things in that data.
 
 (it was "connections of data" - Connections of data you have/create)
+
+EXAMPLES:
+1. Info (webpage) is saved from Chrome browser to MyDataLinks.
+2. You get a word that links 2 "pieces" in that info, from the app.
 
 To-do (for me):
  - a file, save some data to/in it.
