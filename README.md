@@ -1,4 +1,4 @@
-# "\_info_ to have, do, make with" app (\_info_toHave)
+# \_info_ to have, do, make with - app
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "\_info_toHave"
 
 App for **saving data/information to your device** to have, do, make (things)
