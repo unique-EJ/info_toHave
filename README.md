@@ -1,7 +1,7 @@
 # \_info_ to have, do, make with - app
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "\_info_toHave"
 
-App for **saving data/information to your device** to have, do, make (things)
+App for **saving data/information to your device** to have, do, make (things)  
 with - and to search for connections, links of things in that data.
 
 (it was "connections of data" - Connections of data you have/create)
