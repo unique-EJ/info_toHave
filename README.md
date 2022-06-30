@@ -11,14 +11,16 @@ EXAMPLES:
 2. You get a word that links 2 "pieces" in that info, from the app.
 
 To-do (for me):
+ - (data) file formats - JavaScript Object Notation / XML (markup language), CSV?
  - a file, save some data to/in it.
    - printing, to app, to it - from anything!
    https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
  - UI - user "interaction space"
+ - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
 
 ***
 
-a map/dictionary ? Ktor (Kotlin)?
+a map/dictionary ?
 
 this? :
 - "data" (*c0c0c0d2f7*...)
