@@ -1,4 +1,6 @@
-package com.example.command_line
+package com.example.web_framework
+
+import io.javalin.Javalin
 
 /*
 #======================================================#
@@ -25,11 +27,18 @@ fun ui() {
     println(" ...        | your device** to have, do, make (things)")
     println(" ...        | with - and to search for connections,   ")
     println("            | links of things in that data.           ")
-    for (i in 1..4) {
+    /*for (i in 1..4) {
         println("            |")
-    }
+    }*/
 }
 
 fun main() {
-    ui()
+    val app = Javalin.create().start(7070)
+    //try {
+    val path = java.nio.file.Paths.get("web_framework/") // * html file - Bootstrap...
+    println(path.toAbsolutePath())
+    // https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/ , https://docs.oracle.com/javase/tutorial/essential/io/file.html
+    // var reader = java.io.FileReader()
+    //}
+    app.get("/") { ctx -> ctx.result("Hello World") }// ctx.html(...) }
 }

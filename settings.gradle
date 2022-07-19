@@ -7,5 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "_info_toHave"
-include ':html'
-include ':command_line'
+include ':web_framework'
