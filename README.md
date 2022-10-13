@@ -1,13 +1,11 @@
-# \_info_ to have, do, make with - app
+# \_info_ to have... app
 [Picture-It-Dictionary ("PicDict")](Picture-It-Dictionary.md) \| "\_info_toHave"
 
-App for **saving data/information to your device** to have, do, make (things)  
-with - and to search for connections, links of things in that data.
-
-(it was "connections of data" - Connections of data you have/create)
+This app is to **help to do, make (things) with data/information**  
+\- _saving it_ to your device to have, _searching_ for connections, links of things in it.
 
 EXAMPLES:
-1. Info (webpage) is saved from Chrome browser to _info_toHave / MyDataLinks.
+1. Info (webpage) is saved from Chrome browser to _info_toHave.
 2. You get a word that links 2 "pieces" in that info, from the app.
 
 To-do (for me):
