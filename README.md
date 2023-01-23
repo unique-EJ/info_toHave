@@ -1,5 +1,6 @@
 # _\_info__ to have... app
-[ Picture-It-Dictionary ("PicDict") \]() \| `_info_toHave`
+
+[Picture-It-Dictionary ("PicDict")](#picture-it-dictionary-picdict) \| `_info_toHave`
 
 This app is to **help to do, to make (things) with data/information**  
 \- _saving it_ to your device to have, _searching_ for connections, links of things in it.
