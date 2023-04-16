@@ -1,21 +1,13 @@
-# _\_info__ to have... app
+# _info_ to have... app
 
-[Picture-It-Dictionary ("PicDict")](#picture-it-dictionary-picdict) \| `_info_toHave`
+`info_to_have` \| [Picture-It-Dictionary ("PicDict")](#picture-it-dictionary-picdict)
 
-This app is to **help to do, to make (things) with data/information**  
+This is _going to be_ an app to **help to do and make (things) with data/information**  
 \- _saving it_ to your device to have, _searching_ for connections, links of things in it.
 
-EXAMPLES:
-1. Info (webpage) is saved from Chrome browser to (a file in) __info_toHave_.
-2. You get a word that links 2 "pieces" in that info, from the app.
-
-To-do, for me:
- - (data) file formats - JavaScript Object Notation, ".into.json"
- - a file, save some data to/in it.
-   - printing, to it in the app - from anywhere!
-   https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
- - UI - user "interaction space"
- - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
+**EXAMPLES**:
+1. Webpage is saved from Chrome browser to (a file in) _info_to_have_. You get a word that links 2 "pieces" in that information, from the app.
+2. Printing data to (a file in) the app.
 
 ## "JSON for any Data Inside It" file format
 (filename extension: ".into.json")
@@ -26,6 +18,12 @@ To-do, for me:
   "_data_": "[JSON-LD, XML markup, CSV ... as JSON syntax.]"
 }
 ```
+
+To-do, for me:
+ - (data) file formats - JavaScript Object Notation, ".into.json"
+ - A file, save some data to/in it. Printing to it from anywhere, https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
+ - UI - user "interaction space"
+ - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
 
 ***
 
