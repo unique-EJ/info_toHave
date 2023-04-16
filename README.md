@@ -6,7 +6,8 @@ This is _going to be_ an app to **help to do and make (things) with data/informa
 \- _saving it_ to your device to have, _searching_ for connections, links of things in it.
 
 **EXAMPLES**:
-1. Webpage is saved from Chrome browser to (a file in) _info_to_have_. You get a word that links 2 "pieces" in that information, from the app.
+1. Webpage is saved from Chrome browser to (a file in) _info_to_have_.  
+   You get a word that links 2 "pieces" in that information, from the app.
 2. Printing data to (a file in) the app.
 
 ## "JSON for any Data Inside It" file format
