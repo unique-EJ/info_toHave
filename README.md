@@ -26,33 +26,13 @@ To-do, for me:
  - UI - user "interaction space"
  - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
 
-***
+## Picture It Dictionary ("PicDict")
 
-a map/dictionary ?
+_Going to be_ an app for communication. The user:
 
-this? :
-- "data" (*c0c0c0d2f7*...)
-   - "statistic": *a123b9c8d7*... ("a fact or piece of data from a study of a \[large] quantity of numerical data.")
-   - "piece of information": s1j...
-
- - "statistic" (...)
-   - ...
-   - ...
-
- - "piece of information" (s1j...)
-   - "information": ...
-   - ...
-
-## Picture-It-Dictionary ("PicDict")
-
-"Imagine/picture it (a concept), search for words"
-
-App for communication.
-
-1. (An) image(s) is added...
-   - < (less than) 32x32 : *2* x 2, *3* x 3, (*4* x 4 / *5* x 5)
-2. Write it to file??
-3. Search words for it/this.
+1. imagines/pictures a concept/noun
+2. draws _vector graphics_ image(s) - _Scalable Vector Graphics shape editing. Write to file?_
+3. searches words and definitions for the image(s), explores results - _noun (3D) image parts - text properties, categories. Wikidata data_
 
 [123.PicD](123.PicD)
 
@@ -74,11 +54,13 @@ App for communication.
  |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|    //
  |                           | <=//
  |   1. ____       2. ____   |
- |   3. ____       4. ____   |  ** ”Search for words”
+ |   3. ____       4. ____   |  ** ”Search for words and definitions”
  |   5. ____       6. ____   |
  |                           |
  +---------------------------+
 ```
+
+Image < (less than) 32x32 : *2* x 2, *3* x 3, (*4* x 4 / *5* x 5)
 
 ```
 +X+X+X+X@ + + + + @ + + + + @ + + + + @ + + + + @ + + + + @
@@ -112,3 +94,20 @@ App for communication.
 + + + +X@ + + + + @ + + + + @ + + + + @ + + + + @ + + + + @
 @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
 ```
+
+***
+
+a map/dictionary ?
+
+this? :
+- "data" (*c0c0c0d2f7*...)
+   - "statistic": *a123b9c8d7*... ("a fact or piece of data from a study of a \[large] quantity of numerical data.")
+   - "piece of information": s1j...
+
+ - "statistic" (...)
+   - ...
+   - ...
+
+ - "piece of information" (s1j...)
+   - "information": ...
+   - ...
