@@ -2,7 +2,7 @@
 
 `info_to_have` \| [Picture-It-Dictionary ("PicDict")](#picture-it-dictionary-picdict)
 
-This is _going to be_ an app to **help to do and make (things) with data/information**  
+This is _going to be_ an app to **help you to do and make (things) with data/information**  
 \- _saving it_ to your device to have, _searching_ for connections, links of things in it.
 
 **EXAMPLES**:
@@ -30,9 +30,9 @@ To-do, for me:
 
 _Going to be_ an app for communication. The user:
 
-1. imagines/pictures a concept/noun
-2. draws _vector graphics_ image(s) - _Scalable Vector Graphics shape editing. Write to file?_
-3. searches words and definitions for the image(s), explores results - _noun (3D) image parts - text properties, categories. Wikidata data_
+1. imagines/pictures a concept (common noun, lowercase)
+2. draws the mental image(s) - _Scalable Vector Graphics vector shape editing. Write to file?_
+3. explores words and definitions for the image(s), shown/displayed as search results - _noun (3D) image parts - text properties, categories. Wikidata data_
 
 [123.PicD](123.PicD)
 
