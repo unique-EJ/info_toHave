@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="640" height="480" viewBox="0 0 640 480"
+   version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs id="defs2">
+    <rect x="170" y="70" width="470" height="330"
+       id="rect3086" />
+    <rect x="10" y="70" width="130" height="400"
+       id="rect2289" />
+    <rect x="590" y="10" width="40" height="40"
+       id="rect2233" />
+    <rect x="0" y="0" width="560" height="38.715507"
+       id="rect2862" />
+    <rect x="20" y="20" width="540" height="20"
+       id="rect2800" />
+    <rect x="10" y="70" width="120" height="39.11601"
+       id="rect2661" />
+    <rect x="10" y="70" width="140" height="400"
+       id="rect2289-7" />
+  </defs>
+  <g id="layer1">
+    <rect style="fill:#cccccc;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       id="rect1621" width="490" height="420" x="150" y="60" />
+    <path style="fill:none;stroke:none;stroke-width:4.54027;stroke-dasharray:none"
+       d="m 490,400 v 70 H 160 V 70 l 470,0.846252 V 400 Z" id="path1152-4" />
+    <rect style="fill:#cccccc;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       id="rect1783" width="150" height="420" x="0" y="60" />
+    <path style="fill:none;stroke:none;stroke-width:5;stroke-dasharray:none"
+       d="M 580,50 H 10 V 10 h 570 z" id="path1152" />
+    <rect style="fill:#cccccc;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       id="rect1619" height="60" x="0" y="0" width="640" />
+    <text xml:space="preserve" id="text2287"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2289);fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.1;stroke-dasharray:none"
+       transform="translate(-2)"><tspan x="75" y="99.116006" id="tspan1286">
+</tspan><tspan x="75" y="139.11601" id="tspan1288">
+</tspan><tspan x="29.480042" y="179.11601" id="tspan1290">Home
+</tspan><tspan x="54.39209" y="219.11601" id="tspan1292">----
+</tspan><tspan x="30.248047" y="259.11601" id="tspan1294">Saved </tspan><tspan
+         x="45.800049" y="299.11601" id="tspan1296">info
+</tspan><tspan x="54.39209" y="339.11601" id="tspan1298">----
+</tspan><tspan x="14.808136" y="379.11601" id="tspan1302"><tspan style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan1300">Pic-Dict</tspan></tspan></text>
+    <text xml:space="preserve" id="text2860"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#path1152);display:inline;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none"
+       x="16.499998" y="42.950001"
+       transform="translate(0,-0.64164484)"><tspan x="74.200562" y="39.116006"
+         id="tspan1304">_info_ to have - an app</tspan></text>
+    <path d="m 618.72016,18.62 2.55968,2.610882 -8.70294,8.702942 8.65175,8.702942 -2.55969,2.610882 -8.75413,-8.651748 -8.54936,8.651748 -2.66208,-2.610882 8.65175,-8.702942 -8.70294,-8.651748 2.66207,-2.662076 8.65175,8.754135 z"
+       style="font-size:34px;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:discretionary-ligatures;text-align:center;text-anchor:middle;white-space:pre;stroke-width:7.5285"
+       id="path2247" />
+    <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#008080;fill-opacity:1;stroke:#000000;stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect2663" width="124.8" height="52" x="501.60001" y="414" />
+    <text xml:space="preserve" id="text2659"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2663);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.1;stroke-dasharray:none"
+       transform="translate(0,6.9999941)"><tspan x="513.36011" y="443.11601"
+         id="tspan1306">Search</tspan></text>
+    <text xml:space="preserve" id="text3084"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.3;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#path1152-4);shape-padding:0;inline-size:957.256;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="160" y="74.749001"><tspan x="160" y="92.437004" id="tspan1310"><tspan
+       style="-inkscape-font-specification:monospace" id="tspan1308">Imagine/picture a common noun </tspan></tspan><tspan
+         x="160" y="123.637" id="tspan1314"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1312">(person, place, thing / object).
+</tspan></tspan><tspan x="160" y="154.837" id="tspan1318"><tspan style="-inkscape-font-specification:monospace" id="tspan1316">Draw that mental image:
+</tspan></tspan><tspan x="160" y="186.03699" id="tspan1322"><tspan style="-inkscape-font-specification:monospace" id="tspan1320">
+</tspan></tspan><tspan x="160" y="217.23699" id="tspan1326"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1324"> +------------+  Selection
+</tspan></tspan><tspan x="160" y="248.43699" id="tspan1330"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1328"> |            |  properties
+</tspan></tspan><tspan x="160" y="279.63699" id="tspan1338"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1332"> |            | </tspan><tspan style="font-size:20px;-inkscape-font-specification:monospace"
+           id="tspan1334">- category of thing</tspan><tspan style="-inkscape-font-specification:monospace" id="tspan1336">
+</tspan></tspan><tspan x="160" y="310.837" id="tspan1344"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1340"> |            |</tspan><tspan style="font-size:20px;-inkscape-font-specification:monospace" id="tspan1342">
+</tspan></tspan><tspan x="160" y="342.03701" id="tspan1352"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1346"> |            |</tspan><tspan style="font-size:20px;-inkscape-font-specification:monospace"
+           id="tspan1348"> - ...</tspan><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1350">
+</tspan></tspan><tspan x="160" y="373.23702" id="tspan1356"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1354"> |            |
+</tspan></tspan><tspan x="160" y="404.43703" id="tspan1360"><tspan style="-inkscape-font-specification:monospace"
+           id="tspan1358"> +------------+</tspan></tspan></text>
+  </g>
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
