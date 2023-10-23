@@ -1,16 +1,15 @@
-# _info_ to have... app
+# *info-to-use* app
 
-`info_to_have` \| [Picture It Dictionary ("`PicDict`")](#picture-it-dictionary-picdict)
+**An app to give people information that they need, to communicate better and to use (it) to do things.**  
 
-This is _going to be_ an app to **help you to do and make (things) with data/information**  
-\- _saving it_ to your device to have, _searching_ for connections, links of things in it.
+This is the app idea I'm going to make.
 
-**EXAMPLES**:
-1. Webpage is saved from Chrome browser to (a file in) _info_to_have_.  
-   You get a word that links 2 "pieces" in that information, from the app.
-2. Printing data to (a file in) the app.
+[![App UI drawing](app-drawing-plain.svg)](app-drawing.svg)
 
-[!["_info_ to have - an app" UI drawing](app-drawing-plain.svg)](app-drawing.svg)
+- Saved info - information saved to files on a device (in app?), to search for connections/links of things from that info, in the app.
+  **Example:** a word that links 2 things in a web page saved from the Chrome browser.
+
+- "Pic-Dict" (Picture It Dictionary) - definitions of mental images, for communication.
 
 ## "JSON for any Data Inside It" file format
 (filename extension: ".into.json")
@@ -24,13 +23,13 @@ This is _going to be_ an app to **help you to do and make (things) with data/inf
 
 To-do, for me:
  - (data) file formats - JavaScript Object Notation, ".into.json"
- - A file, save some data to/in it. Printing to it from anywhere, https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
+ - A file, save some data to it, print from anywhere to a service in the app, https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
  - UI - user "interaction space"
  - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
 
-## Picture It Dictionary ("PicDict")
+## Picture It Dictionary
 
-_Going to be_ an app for communication. The user:
+The user:
 
 1. imagines/pictures a concept (common noun, lowercase)
 2. draws the mental image(s) - _Scalable Vector Graphics vector shape editing. Write to file?_
@@ -40,26 +39,26 @@ _Going to be_ an app for communication. The user:
 UI drawing:
 
 ```
- +---------------------+-------+
- |     Picture It      |  _|_  |
- |     Dictionary      |  ‾|‾  |
- +---------------------+-------+
- |  Imagine/picture it.        |
- |  +----------+               |
- |  |          |               |
- |  |          |               |
- |  |          |               |
- |  |          |               |
- |  +----------+               |
- |                             |
- |____________.–.______________|
- |‾‾‾‾‾‾‾‾‾‾‾‾'-'‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
- |                             |
- |    1. ____       2. ____    |
- |    3. ____       4. ____    | ==> ”Search for words
- |    5. ____       6. ____    |      and definitions”
- |                             |
- +-----------------------------+
++---------------------+-------+
+|     Picture It      |  _|_  |
+|     Dictionary      |  ‾|‾  |
++---------------------+-------+
+|  Imagine/picture it.        |
+|  +----------+               |
+|  |          |               |
+|  |          |               |
+|  |          |               |
+|  |          |               |
+|  +----------+               |
+|                             |
+|____________.–.______________|
+|‾‾‾‾‾‾‾‾‾‾‾‾'-'‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+| Search results...           |
+|    1. ____       4. ____    |
+|    2. ____       5. ____    |
+|    3. ____       6. ____    |
+|                             |
++-----------------------------+
 ```
 
 Image < (less than) 32x32 : *2* x 2, *3* x 3, (*4* x 4 / *5* x 5)
@@ -100,9 +99,8 @@ Image < (less than) 32x32 : *2* x 2, *3* x 3, (*4* x 4 / *5* x 5)
 
 ***
 
-a map/dictionary ?
+This? Map/dictionary?
 
-this? :
 - "data" (*c0c0c0d2f7*...)
    - "statistic": *a123b9c8d7*... ("a fact or piece of data from a study of a \[large] quantity of numerical data.")
    - "piece of information": s1j...
