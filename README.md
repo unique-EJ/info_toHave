@@ -11,18 +11,19 @@ This is the app idea I'm going to make.
 
 - "Pic-Dict" (Picture It Dictionary) - definitions of mental images, for communication.
 
-## "JSON for any Data Inside It" file format
-(filename extension: ".into.json")
+~~## "JSON for any Data Inside It" file format
+(filename extension: ".into.json")~~
 
-```json
+
+~~\```json\
 {
   "_type_": ".into.json - JSON for any Data Inside It",
   "_data_": "[JSON-LD, XML markup, CSV ... as JSON syntax.]"
-}
-```
+}\
+\```~~
 
 To-do, for me:
- - (data) file formats - JavaScript Object Notation, ".into.json"
+ - (data) file formats - ~~JavaScript Object Notation, ".into.json",~~ _directory-metadata.md_ - in a folder directory
  - A file, save some data to it, print from anywhere to a service in the app, https://developer.android.com/reference/android/printservice/PrintService?hl=en#print-jobs
  - UI - user "interaction space"
  - [Google Knowledge Graph Search API ??](https://developers.google.com/knowledge-graph)
