@@ -1,10 +1,8 @@
-# *information*
+# *info-to-use* app
 
-**Apps to make, ideas to do, other info. I'm going to use and share it.**  
+**An app to give people information that they need, to communicate better and to use (it) to do things.**  
 
-
-
-This is the...
+This is the app idea I'm going to make.
 
 [![App UI drawing](app-drawing-plain.svg)](app-drawing.svg)
 
