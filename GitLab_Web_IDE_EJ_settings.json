@@ -1,0 +1,14 @@
+{
+    "window.menuBarVisibility": "visible",
+    "workbench.colorTheme": "Default Light Modern",
+    "files.autoSaveDelay": 1200,
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "'Noto Mono', 'GitLab Mono', monospace",
+    "editor.fontWeight": "400",
+    "editor.fontSize": 15,
+    "editor.tabSize": 4,
+    "diffEditor.renderSideBySide": false,
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "window.title": "${activeEditorMedium}${separator}${rootName}",
+    "window.titleSeparator": " ~ "
+}
