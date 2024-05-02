@@ -1,8 +1,6 @@
-# *info-to-use* app
+# *info-to-use* (idea to make)
 
-**An app to give people information that they need, to communicate better and to use (it) to do things.**  
-
-This is the app idea I'm going to make.
+**An app to give people information that they need, to communicate better and to use (it) to do things.**
 
 [![App UI drawing](app-drawing-plain.svg)](app-drawing.svg)
 
