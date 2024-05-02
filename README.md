@@ -1,4 +1,4 @@
-# *ℹ — information*
+# ℹ — information
 
 **Communication boards, apps to make, ideas to do, other info.**
 
